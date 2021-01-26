@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327096763304",
+    "project_id": "find-your-project-goncalv",
+    "storage_bucket": "find-your-project-goncalv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327096763304:android:8eac98c5ef92bd9a07d39d",
+        "android_client_info": {
+          "package_name": "com.goncalv.findmyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327096763304-mf982qsjnlnhamkdm4plmlesraj58gdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuES3ypQwUB8dWE0vL34XjeoP8fArG9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327096763304-mf982qsjnlnhamkdm4plmlesraj58gdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
